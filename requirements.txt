@@ -1,2 +1,4 @@
 numpy
 modern-robotics
+pytest
+mujoco
